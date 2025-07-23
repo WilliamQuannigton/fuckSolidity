@@ -2,7 +2,7 @@
 pragma solidity ^0.8.19;
 
 import "forge-std/Test.sol";
-import "../src/AlgorithmSolutions.sol";
+import "../src/task1/AlgorithmSolutions.sol";
 
 contract AlgorithmSolutionsTest is Test {
     AlgorithmSolutions public algorithmSolutions;
